@@ -13,6 +13,8 @@ This project is a part of my **Natural Language Processing Internship** at **Ele
 - **Goal**: Build a binary sentiment classifier (positive vs negative) for Amazon product reviews and compare modeling approaches.
 - **Scope**: End-to-end pipeline including text cleaning, vectorization, model training (Logistic Regression, Naive Bayes), evaluation, and interpretability/visualization.
 
+- Dataset Source - https://www.kaggle.com/datasets/anushabellam/amazon-reviews-dataset
+
 ### Methodology / Approach
 - **Data**: Five Amazon categories (`books`, `ebooks`, `grocery`, `jewelry`, `pc`) combined into a single dataset of review texts with labels.
 - **Preprocessing**:
